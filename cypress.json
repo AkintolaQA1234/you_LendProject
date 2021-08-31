@@ -1,0 +1,6 @@
+{
+    "watchForFileChanges": false,
+    "testFiles": "**/*.feature",
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "cypress/screenshots"
+}
